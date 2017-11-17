@@ -1,4 +1,6 @@
 (require 'Sinsimitu)
+(require 'ht)
+(require 'Simituekimahe)
 
 (setq
     ieremii-rainbow-s 0.4
