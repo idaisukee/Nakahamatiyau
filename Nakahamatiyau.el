@@ -2,6 +2,8 @@
 (require 'ht)
 (require 'Simituekimahe)
 
+(load-theme 'deeper-blue t)
+
 (setq
     ieremii-rainbow-s 0.4
     ieremii-rainbow-v 0.85)
