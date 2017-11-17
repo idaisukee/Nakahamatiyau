@@ -1,3 +1,5 @@
+(require 'Sinsimitu)
+
 (setq
     ieremii-rainbow-s 0.4
     ieremii-rainbow-v 0.85)
